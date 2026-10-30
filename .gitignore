@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+data/
+runs/
+stego/
+results/
+results_pack/
+results_pack.zip
+figures/
+*.pt
